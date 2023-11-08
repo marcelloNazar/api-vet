@@ -95,7 +95,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>api-vetcenter</finalName>
+		<finalName>api-vet</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
